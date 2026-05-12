@@ -1,7 +1,6 @@
-# End-to-End-E-Commerce-BI-System-
-Built an end-to-end E-Commerce BI system using Python, SQL Server, and Power BI.     Developed ETL pipelines, designed a star schema data warehouse, and created interactive dashboards analyzing sales, customers, delivery performance, payments, and reviews using large-scale Olist datasets.
+# 🚀 E-Commerce Business Intelligence System
 
-p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-ETL-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/SQL%20Server-Data%20Warehouse-red?style=for-the-badge&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi" />
@@ -158,8 +157,8 @@ Power BI Dashboard
 </tr>
 <tr>
 <td>Delivery Performance</td>
-<td>Seller Analysis</td>
-<td>Reviews & Payments</td>
+<td>Performance </td>
+
 </tr>
 </table>
 
@@ -170,7 +169,7 @@ Power BI Dashboard
 ## Executive Dashboard
 
 <p align="center">
-  <img src="docs/executive_dashboard.png" width="900" />
+  <img src="dashboard pictures/overview.png" width="900" />
 </p>
 
 ---
@@ -178,7 +177,7 @@ Power BI Dashboard
 ## Sales Analysis Dashboard
 
 <p align="center">
-  <img src="docs/sales_dashboard.png" width="900" />
+  <img src="dashboard pictures/sales.png" width="900" />
 </p>
 
 ---
@@ -186,7 +185,7 @@ Power BI Dashboard
 ## Customer Analysis Dashboard
 
 <p align="center">
-  <img src="docs/customer_dashboard.png" width="900" />
+  <img src="dashboard pictures/customers.png" width="900" />
 </p>
 
 ---
@@ -194,23 +193,15 @@ Power BI Dashboard
 ## Delivery Performance Dashboard
 
 <p align="center">
-  <img src="docs/delivery_dashboard.png" width="900" />
+  <img src="dashboard pictures/delivery.png" width="900" />
 </p>
 
----
+-
 
-## Seller Performance Dashboard
-
-<p align="center">
-  <img src="docs/seller_dashboard.png" width="900" />
-</p>
-
----
-
-## Reviews & Payments Dashboard
+## Performance Dashboard
 
 <p align="center">
-  <img src="docs/reviews_payments_dashboard.png" width="900" />
+  <img src="dashboard pictures/performance.png" width="900" />
 </p>
 
 ---
@@ -238,58 +229,8 @@ Power BI Dashboard
 
 ---
 
-# 📁 Project Structure
 
-```bash
-EcommerceBI/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-├── etl/
-├── sql/
-├── powerbi/
-├── docs/
-├── logs/
-├── requirements.txt
-└── README.md
-```
 
----
-
-# ▶️ How To Run The Project
-
-## 1️⃣ Install Required Libraries
-
-```bash
-pip install pandas sqlalchemy pyodbc matplotlib seaborn
-```
-
-## 2️⃣ Run ETL Pipeline
-
-```bash
-python pipeline.py
-```
-
-## 3️⃣ Execute SQL Scripts
-
-Run:
-- `01_constraints.sql`
-- `02_views.sql`
-
-## 4️⃣ Open Power BI
-
-Connect Power BI to:
-
-```text
-Server: localserver
-Database: EcommerceDW
-View: vw_orders_full
-```
-
----
 
 # 🧠 Skills Demonstrated
 
@@ -322,7 +263,7 @@ Built a complete E-Commerce Business Intelligence system using Python, SQL Serve
 
 # 👩‍💻 Author
 
-### Khadija Abdelrazeq
+### Khadija Elsenousy 
 
 <p align="left">
   <a href="https://www.linkedin.com/">
@@ -333,6 +274,4 @@ Built a complete E-Commerce Business Intelligence system using Python, SQL Serve
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
-
 
