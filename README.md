@@ -1,4 +1,4 @@
-# 🚀 E-Commerce BI & Data Warehouse System
+# 🚀End-to-End E-Commerce BI & Data Warehouse System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ETL-blue?style=for-the-badge&logo=python" />
@@ -14,16 +14,6 @@
 ---
 
 
-### **E-Commerce BI & Data Warehouse System**
-
-## Other Strong Options
-- Retail Analytics & BI Platform
-- E-Commerce Sales Intelligence System
-- End-to-End E-Commerce Analytics Solution
-- Olist E-Commerce Data Warehouse & Dashboard
-- E-Commerce ETL & Business Intelligence Project
-
----
 
 # 📖 Project Overview
 
