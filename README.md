@@ -1,4 +1,4 @@
-# 🚀 E-Commerce Business Intelligence System
+# 🚀 E-Commerce BI & Data Warehouse System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ETL-blue?style=for-the-badge&logo=python" />
@@ -13,9 +13,7 @@
 
 ---
 
-# 📌 Project Title Ideas
 
-## Best Recommended Title
 ### **E-Commerce BI & Data Warehouse System**
 
 ## Other Strong Options
