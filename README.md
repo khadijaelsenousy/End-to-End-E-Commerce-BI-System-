@@ -252,12 +252,6 @@ Power BI Dashboard
 
 ---
 
-# 🎯 Resume / CV Description
-
-### Professional Version
-Built a complete E-Commerce Business Intelligence system using Python, SQL Server, and Power BI. Developed automated ETL pipelines, designed a star schema data warehouse, and created interactive dashboards to analyze sales, customer behavior, delivery performance, reviews, and payment trends using large-scale real-world datasets.
-
----
 
 # 👩‍💻 Author
 
